@@ -4,6 +4,9 @@
 - Framework
   - Libraries
  
+### Code Mangers
+- Github
+	- [Gitlarge](https://git-lfs.com)
 
 ### Package Managers
 - npm
